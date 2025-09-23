@@ -1,0 +1,46 @@
+{
+    "userSuccess": {
+      "username": "bruninhoqa",
+      "password": "123456"
+    },
+    
+    "userFail": {
+      "username": "Test",
+      "password": "456789"
+    },
+
+    "userRegister": {
+      "firstName": "bruninho",    
+      "lastName": "gonçalves",
+      "username": "bruninhoqa",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+
+   "userRegisterADM": {
+      "firstName": "bruninho",    
+      "lastName": "QA",
+      "username": "bruninhoqa",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+
+    "userRegisterHistTest": {
+      "firstName": "Historico",    
+      "lastName": "Teste",
+      "username": "historicoteste",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+
+    "sendValue": {
+      "value1": "100",    
+      "value2": "1000"
+    },
+
+    "sendValueMessages": {
+      "message1": "Tá pago",    
+      "message2": "Toma",
+      "message3": "Era pra dar erro"
+    }
+  }
